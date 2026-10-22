@@ -1,0 +1,6 @@
+# WiFi sifresi ve ileride Firebase anahtarlari burada. Asla yuklenmesin.
+secrets.h
+
+# Derleme ciktilari, yuklemeye gerek yok
+build/
+*.bin
