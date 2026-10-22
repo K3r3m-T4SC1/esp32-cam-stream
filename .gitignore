@@ -1,6 +1,10 @@
-# WiFi sifresi ve ileride Firebase anahtarlari burada. Asla yuklenmesin.
+# WiFi sifresi ve Firebase bilgileri burada. Asla yuklenmesin.
 secrets.h
+firebase_secrets.py
 
 # Derleme ciktilari, yuklemeye gerek yok
 build/
 *.bin
+
+# Python'un otomatik olusturdugu klasor
+__pycache__/
